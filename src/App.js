@@ -14,9 +14,7 @@ class App extends Component {
   constructor() {
     super();
 
-    this.state = {
-      currentUser: null,
-    };
+    this.state = {};
   }
 
   componentDidMount() {
