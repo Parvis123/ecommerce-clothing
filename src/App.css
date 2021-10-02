@@ -1,5 +1,6 @@
+/* prettier-ignore */
 body {
-  font-family: "Open Sans Condensed";
+  font-family: 'Open Sans Condensed', sans-serif !important;
   padding: 20px 60px;
 }
 
